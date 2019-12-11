@@ -1,5 +1,5 @@
 (function (){
-  ceq_core.logger.logD("Running embededFunction.js");
+  ceq.log("Running embededFunction.js");
   var myValue = 1;
   ceq.log("Set myValue to: " + myValue);
 
