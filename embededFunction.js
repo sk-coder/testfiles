@@ -8,6 +8,7 @@
     ceq.log("Checked that value was 1");
   }
   else
+  {
     ceq.log("The IF did NOT work!!!!");
   }
 
